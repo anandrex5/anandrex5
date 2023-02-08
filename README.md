@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java,Kotlin,Python**
+- 🌱 I’m currently learning **Java,Kotlin,Python,Devops(AWS)**
 
-- 💬 Ask me about **Android , Python**
+- 💬 Ask me about **Android , Python , Devops**
 
 - 📫 How to reach me **anandrex5@gmail.com**
 
