@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java,Kotlin,Python,Devops(AWS)**
 
-- 💬 Ask me about **Android , Python , Devops**
+- 💬 Ask me about **Android , Kotlin**
 
 - 📫 How to reach me **anandrex5@gmail.com**
 
